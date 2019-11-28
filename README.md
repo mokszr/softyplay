@@ -1,10 +1,16 @@
 # softyplay
+
+For Developers From Developers
+
 Listen to lectures, conferences, speeches, presentations from software world while you are walking, driving etc!
 
-Download from Google Play Store now freely!
+Download from Google Play Store now freely this amazing learning Android application!
 
 https://play.google.com/store/apps/details?id=com.pmobile.softyplay
 
+![Icon](/icon.png)
+
+![Icon](/screenshot2.png)  ![Icon](/screenshot.png)
 
 #softyplay #android #app #podcast #softwarecraftsmanship   #conferences  #lectures #etc #software
 
@@ -13,13 +19,14 @@ While you are walking, driving etc, continue to learn by listening lectures from
 Listen and learn from software world gurus and geeks!
 
 Here is some of the categories:
-Robert C. Martin
-Sandro Mancuso
-Martin Fawler
-Spring Framework World
-Rod Johnson
-Kent Beck
-Richard Stallman
+
+* Robert C. Martin
+* Sandro Mancuso
+* Martin Fawler
+* Spring Framework World
+* Rod Johnson
+* Kent Beck
+* Richard Stallman
 
 You can download lectures in order to listen when there is no internet connection!
 
